@@ -1,0 +1,15 @@
+E:\2_NTPHONG\1_TOOL\ConvertToCSV\ConvertToCSV\bin\Debug\netcoreapp3.1\ConvertToCSV.exe
+E:\2_NTPHONG\1_TOOL\ConvertToCSV\ConvertToCSV\bin\Debug\netcoreapp3.1\ConvertToCSV.deps.json
+E:\2_NTPHONG\1_TOOL\ConvertToCSV\ConvertToCSV\bin\Debug\netcoreapp3.1\ConvertToCSV.runtimeconfig.json
+E:\2_NTPHONG\1_TOOL\ConvertToCSV\ConvertToCSV\bin\Debug\netcoreapp3.1\ConvertToCSV.runtimeconfig.dev.json
+E:\2_NTPHONG\1_TOOL\ConvertToCSV\ConvertToCSV\bin\Debug\netcoreapp3.1\ConvertToCSV.dll
+E:\2_NTPHONG\1_TOOL\ConvertToCSV\ConvertToCSV\bin\Debug\netcoreapp3.1\ConvertToCSV.pdb
+E:\2_NTPHONG\1_TOOL\ConvertToCSV\ConvertToCSV\obj\Debug\netcoreapp3.1\ConvertToCSV.Form1.resources
+E:\2_NTPHONG\1_TOOL\ConvertToCSV\ConvertToCSV\obj\Debug\netcoreapp3.1\ConvertToCSV.csproj.GenerateResource.cache
+E:\2_NTPHONG\1_TOOL\ConvertToCSV\ConvertToCSV\obj\Debug\netcoreapp3.1\ConvertToCSV.AssemblyInfoInputs.cache
+E:\2_NTPHONG\1_TOOL\ConvertToCSV\ConvertToCSV\obj\Debug\netcoreapp3.1\ConvertToCSV.AssemblyInfo.cs
+E:\2_NTPHONG\1_TOOL\ConvertToCSV\ConvertToCSV\obj\Debug\netcoreapp3.1\ConvertToCSV.csproj.CoreCompileInputs.cache
+E:\2_NTPHONG\1_TOOL\ConvertToCSV\ConvertToCSV\obj\Debug\netcoreapp3.1\ConvertToCSV.dll
+E:\2_NTPHONG\1_TOOL\ConvertToCSV\ConvertToCSV\obj\Debug\netcoreapp3.1\ConvertToCSV.pdb
+E:\2_NTPHONG\1_TOOL\ConvertToCSV\ConvertToCSV\obj\Debug\netcoreapp3.1\ConvertToCSV.genruntimeconfig.cache
+E:\2_NTPHONG\1_TOOL\ConvertToCSV\ConvertToCSV\obj\Debug\netcoreapp3.1\ConvertToCSV.csprojAssemblyReference.cache
